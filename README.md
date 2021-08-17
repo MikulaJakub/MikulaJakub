@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a researcher at IHPC, A\*STAR, Singapore and I am passionate about modelling and simulation of deformation and failure of materials from perspective of solid mechanics and additive manufacturing.  
+
 <!--
 **MikulaJakub/MikulaJakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
