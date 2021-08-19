@@ -6,7 +6,7 @@ I'm a researcher at IHPC, A\*STAR, Singapore and I am passionate about modelling
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikulaJakub&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikulaJakub&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 <table style="border-collapse: collapse; border: none;">
