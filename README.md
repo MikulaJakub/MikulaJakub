@@ -2,6 +2,8 @@
 
 I'm a researcher at IHPC, A\*STAR, Singapore and I am passionate about modelling and simulation of deformation and failure of materials from perspective of solid mechanics and additive manufacturing.  
 
+![banner](figures/banner.png)
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikulaJakub&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 
