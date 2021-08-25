@@ -1,4 +1,8 @@
-![banner](figures/banner.png)
+| | | | | |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![banner](figures/martensite.png) | ![banner](figures/phase_field.png) | ![banner](figures/grain_growth.png) | ![banner](figures/monte_carlo.png) | ![banner](figures/grain_boundary.png)
+
+
 ### Hi there 👋 I'm Jakub.
 
 I'm a researcher at IHPC, A\*STAR, Singapore and I am passionate about modelling and simulation of deformation and failure of materials from perspective of solid mechanics and additive manufacturing.  
