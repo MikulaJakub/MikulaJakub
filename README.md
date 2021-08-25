@@ -1,7 +1,8 @@
+<!--
 | | | | | |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![banner](figures/martensite.png) | ![banner](figures/phase_field.png) | ![banner](figures/grain_growth.png) | ![banner](figures/monte_carlo.png) | ![banner](figures/grain_boundary.png)
-
+-->
 
 ### Hi there 👋 I'm Jakub.
 
